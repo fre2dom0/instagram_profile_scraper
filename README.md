@@ -33,9 +33,8 @@ const instagramScraper = new InstagramScraper("NAME", {
 🚀 Running the Project
 
 Since you have installed tsx globally, you can run the project with a simple command:
-Bash
 
-tsx ./src/main.ts
+npx tsx ./src/main.ts
 
 Note: You don't need to use npx if the package is installed globally.
 📂 Project Structure
