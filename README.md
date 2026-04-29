@@ -5,13 +5,12 @@ This is a TypeScript-based tool designed to scrape highlights, stories, and post
 
 To run this project, you need to install TypeScript and the TSX runner globally on your system. This allows you to execute .ts files directly from your terminal.
 
-    Install Node.js: (If not already installed) Download Node.js
+    Install Node.js: (If not already installed)
 
     Install TypeScript & TSX globally:
     Open your terminal and run:
-    Bash
+    npm install -g typescript tsx
 
-npm install -g typescript tsx
 
 Install Project Dependencies:
 Navigate to the project folder and run:
